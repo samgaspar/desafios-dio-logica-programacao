@@ -23,7 +23,7 @@ https://web.dio.me/track/formacao-logica-de-programacao
 
 📁 [desafio2-funções](./desafio2-funcoes/)
 
-### 2. Calculadora de Partidas Rankeadas
+### 3. Escrevendo as Classes de Um Jogo
 
 - Variáveis
 - Operadores
