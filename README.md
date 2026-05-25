@@ -21,7 +21,7 @@ https://web.dio.me/track/formacao-logica-de-programacao
 - Estruturas de decisão
 - Operadores
 
-📁 [desafio2-funções](./desafio2-funcoes/)]
+📁 [desafio2-funções](./desafio2-funcoes/)
 
 ### 2. Calculadora de Partidas Rankeadas
 
@@ -32,4 +32,4 @@ https://web.dio.me/track/formacao-logica-de-programacao
 - Funções
 - Classes e Objetos
 
-📁 [desafio3-ClassesObjetos](./desafio3-ClassesObjetos/)]
+📁 [desafio3-ClassesObjetos](./desafio3-ClassesObjetos/)
