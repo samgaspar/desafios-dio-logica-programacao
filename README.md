@@ -11,8 +11,7 @@ https://web.dio.me/track/formacao-logica-de-programacao
 - Operadores
 - Variáveis
 
-📁 Pasta:
-`desafio1-operadores`
+📁 [desafio1-operadores](./desafio1-operadores/)
 
 ---
 
@@ -22,5 +21,4 @@ https://web.dio.me/track/formacao-logica-de-programacao
 - Estruturas de decisão
 - Operadores
 
-📁 Pasta:
-`desafio2-funcoes`
+📁 [desafio2-funções](./desafio2-funcoes/)]
