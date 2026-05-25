@@ -22,3 +22,14 @@ https://web.dio.me/track/formacao-logica-de-programacao
 - Operadores
 
 📁 [desafio2-funções](./desafio2-funcoes/)]
+
+### 2. Calculadora de Partidas Rankeadas
+
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+- Funções
+- Classes e Objetos
+
+📁 [desafio3-ClassesObjetos](./desafio3-ClassesObjetos/)]
